@@ -24,9 +24,6 @@
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomugomucode&theme=tokyo-night&hide_border=true" />
-</p> -->
 
 
 📊  GitHub Analytics
@@ -35,17 +32,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomugomucode&theme=tokyonight" />
-</p> -->
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomugomucode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomugomucode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
 
 
